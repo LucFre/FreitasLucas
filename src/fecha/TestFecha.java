@@ -4,6 +4,10 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/**
+ * Comprueba el funcionamiento de la clase Fecha.
+ * @author Lucas
+ */
 public class TestFecha {
 	public static void main(String[] args) throws IOException {
         int dia, mes, anyo;

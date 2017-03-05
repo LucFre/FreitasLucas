@@ -5,7 +5,10 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 import fecha.Fecha;
-
+/**
+ * Conjunto de pruebas que prueban el correcto funcionamiento de la clase Fecha.
+ * @author Lucas
+ */
 public class PruebaFecha {
 
 	@Test
